@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/View/ManagerDashboard.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/View/MainWindow.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/Controllers/MainController.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/Model/Salary.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/Controllers/dbConnection.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/Controllers/UserController.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/Model/User.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/Controllers/AdminController.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/View/AdminDashboard.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/Controllers/SuperAdminController.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/View/LOGIN_ADMIN.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/DAO/UserDAO.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/Model/AccessLevel.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/DAO/SalaryDAO.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/Controllers/SamagiLogin.java</file>
+            <file>file:/G:/0/EmployeeManagementPayrollSystem/src/View/SalaryWindow.java</file>
+        </group>
+    </open-files>
+</project-private>
